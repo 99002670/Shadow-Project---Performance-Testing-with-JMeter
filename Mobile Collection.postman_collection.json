@@ -1,0 +1,1674 @@
+{
+	"id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+	"name": "Mobile Collection",
+	"description": "",
+	"order": [],
+	"folders": [
+		{
+			"id": "8be99fbf-e1b5-e408-6ec7-b6d37283105a",
+			"name": "Campus service",
+			"description": "",
+			"order": [
+				"799b924b-e071-c457-be3c-20f39b301bb7",
+				"3cfe6f2e-718b-27f4-4a00-e801c1d91ce3",
+				"079ca3b7-77d4-7be2-fbf6-82351d68447d",
+				"7ec4cdd7-c060-1ea6-31d1-9e6032f67130",
+				"3a6dcfc3-0593-fd71-5f9a-b8914a96b4b0",
+				"93b3bc0b-53c1-d7a3-2342-8a00e1de08d7",
+				"f2b84d66-e07e-30cc-9722-3d512b350253",
+				"38d043fc-d805-6e68-8bfd-61993c4defaf",
+				"ae0e9bf8-05ee-90be-9f0e-66cad02af90a",
+				"c02031e7-21fd-742a-dee8-7f219cb20248",
+				"9b84da75-30b6-bc99-858b-0e2bc43508b7",
+				"ed022d1f-de36-3160-7b66-3506ec6c0bae",
+				"2d84013d-ff02-aa8c-31c1-752bdb9d6707",
+				"b9e96094-5bf9-a656-8ba1-3afce943035d",
+				"72185e87-2d2c-b658-5b91-6b8368107c09",
+				"b3138be9-dc05-8a2c-9a87-028567b2aed4"
+			],
+			"folders_order": [],
+			"owner": "11346462",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc"
+		},
+		{
+			"id": "7dd39cde-2248-23ea-44dc-6b57cedadfa1",
+			"name": "Car Registration",
+			"description": "",
+			"order": [
+				"604f036f-6d39-a36e-44e7-7434491e296a",
+				"593da3eb-e21d-d8f8-8045-456dadeed4f9",
+				"f413a3eb-a0f6-cbe0-06ca-38e207cd8533"
+			],
+			"folders_order": [],
+			"owner": "11346462",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc"
+		},
+		{
+			"id": "d9a22bff-1e5f-7c9f-a70b-889877b2b129",
+			"name": "Common",
+			"description": "",
+			"order": [
+				"342b9e68-ea22-fe75-6613-2a3cb3bed561",
+				"d08ea151-c937-4229-1d37-dbd199470baa",
+				"97330f56-5706-81c9-79cf-4993db609ff6",
+				"f7c9b6f9-e6f6-c438-9662-49077d264c68"
+			],
+			"folders_order": [],
+			"owner": "11346462",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc"
+		},
+		{
+			"id": "cef6a17a-15d8-6a40-1243-1085f9b35d2f",
+			"name": "Commute_Ride",
+			"description": "",
+			"order": [
+				"ef3058f0-cc77-66df-f3ea-90b8e0bbd8f4",
+				"b5802f09-b8fe-6a4b-fce7-6a0c5753f090",
+				"bc4389b3-ef86-29b5-5112-0624c66b3594",
+				"646fed31-6d83-2e66-1a21-aec8ce1aa7cd",
+				"047e4469-ee5f-5d67-d965-71450bbb29e5",
+				"667e8c85-5c55-8348-0cee-7baf12713cd3",
+				"30e85b01-72c1-c6df-99c4-7f357fc40696",
+				"1c3fc683-7507-c097-b3d9-e3a3232e6ce5",
+				"ec140a07-9f88-bf30-2ed0-2e7375f8320b",
+				"d309ab35-c604-c1bf-9919-313b8aabab38",
+				"3d335d25-b681-ad6d-92fd-68db83eb236e"
+			],
+			"folders_order": [],
+			"owner": "11346462",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc"
+		},
+		{
+			"id": "cbdd2c3e-7b5d-bf74-61e5-57d5d01ab22f",
+			"name": "Food & Dining",
+			"description": "",
+			"order": [
+				"54e9a208-3d81-b6de-634b-2d7307ce3d9e",
+				"9c5d9105-cbd5-451a-7ec3-b48ae33a77d8",
+				"70ea65be-d967-c4e1-346f-46761e3f1f66",
+				"83ead922-d0c8-295e-15d6-701e400965f5",
+				"4bf705bd-c11e-6183-d16d-5ed520ef1408",
+				"f2fa5355-a9df-e519-a84d-2fd28968de44",
+				"0aa87dcb-5d66-a597-5785-edeb32b3f8d2",
+				"5ac57b7f-e5d9-21cc-2e60-d038f045b137",
+				"dfbc6688-7e42-e8b6-e0f3-03bc1272bccf",
+				"bc125ec6-9f93-5c26-f756-35f2242982a0",
+				"ba8df2ee-1809-ecaa-614e-e210594d2856",
+				"4dbb693b-e5ed-fccd-47bb-92ecc81b3210",
+				"79797a52-faa9-38e0-8a58-0a473cff58b6",
+				"02fef8b2-2db9-4a0b-47f0-b71c7631e036",
+				"6cdafbcc-de09-d91a-2c4e-75305e6a2df9",
+				"24850292-925b-9e5e-2cb8-b0bbb4d98646",
+				"54963f7e-f7cc-420a-f438-2ae8d17a82b5",
+				"79ed5287-fe53-2cee-d1f0-f4985035d6a5",
+				"4a29d00c-d2f5-f12d-af17-19006d371cbf",
+				"2caec997-73c4-29d1-af19-150a2819e2b3",
+				"bd740ec3-be95-8602-0d9f-dbfdbb251c28",
+				"882edb5d-dc02-ee23-5f93-cb076df9f288",
+				"4092d5fb-af57-35b7-114b-ae4594b8a97e",
+				"f4b17ab2-04c9-f407-35b3-e49316441419",
+				"dfa1aa18-addc-f1e9-38c9-4218230f9264",
+				"4fe12477-6d6d-438e-13b6-f9c7649acd79",
+				"e87202ee-3f35-ab27-166d-f9422ed500dc"
+			],
+			"folders_order": [],
+			"owner": "11346462",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc"
+		}
+	],
+	"folders_order": [
+		"cbdd2c3e-7b5d-bf74-61e5-57d5d01ab22f",
+		"8be99fbf-e1b5-e408-6ec7-b6d37283105a",
+		"7dd39cde-2248-23ea-44dc-6b57cedadfa1",
+		"d9a22bff-1e5f-7c9f-a70b-889877b2b129",
+		"cef6a17a-15d8-6a40-1243-1085f9b35d2f"
+	],
+	"timestamp": 0,
+	"owner": "11346462",
+	"public": false,
+	"requests": [
+		{
+			"id": "02fef8b2-2db9-4a0b-47f0-b71c7631e036",
+			"name": "http://localhost:8080/iBemsServer/inActiveAutoOrder",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "POST",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\n\t\"autoOrderId\":1,\n\t\"wwid\":\"WW001\"\n}",
+			"url": "http://localhost:8080/iBemsServer/inActiveAutoOrder",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cbdd2c3e-7b5d-bf74-61e5-57d5d01ab22f"
+		},
+		{
+			"id": "047e4469-ee5f-5d67-d965-71450bbb29e5",
+			"name": "http://localhost:9080/iBemsServer/getCurrentCommuteUserSettings?wwid=40001719&commuteFrom=Home",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://localhost:9080/iBemsServer/getCurrentCommuteUserSettings?wwid=40001719&commuteFrom=Home",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "wwid",
+					"value": "40001719"
+				},
+				{
+					"key": "commuteFrom",
+					"value": "Home"
+				}
+			],
+			"headerData": [],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cef6a17a-15d8-6a40-1243-1085f9b35d2f"
+		},
+		{
+			"id": "079ca3b7-77d4-7be2-fbf6-82351d68447d",
+			"name": "WS-16- Campus Services(Mobile) - cancelAppointment",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "POST",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\n\t\"vendorServiceId\":\"1_1\",\n\t\"slotNumber\":32,\n\t\"categoryId\":1,\n\t\"offerId\":1,\n\t\"wwid\":\"123456\",\n\t\"date\":\"2018-08-08\",\n\t\"time\":\"04:00 PM\"\n}",
+			"url": "http://bltsw01330.lnties.com:8080/iBemsServer/cancelAppointment",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "8be99fbf-e1b5-e408-6ec7-b6d37283105a"
+		},
+		{
+			"id": "0aa87dcb-5d66-a597-5785-edeb32b3f8d2",
+			"name": "http://localhost:8080/iBemsServer/foodAutoOrderByWWID?wwid=WW001",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://localhost:8080/iBemsServer/foodAutoOrderByWWID?wwid=WW001",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "wwid",
+					"value": "WW001"
+				}
+			],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cbdd2c3e-7b5d-bf74-61e5-57d5d01ab22f"
+		},
+		{
+			"id": "1c3fc683-7507-c097-b3d9-e3a3232e6ce5",
+			"name": "http://localhost:9080/iBemsServer/getSuggestedRides?wwid=40001719&commuteFrom=Home&commuteTo=Office - PTK1",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "POST",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\n\t\"wwid\":\"20126693\",\n\t\"commuteFrom\":\"Home\",\n\t\"commuteTo\":\"PTK1 - Office\",\n\t\"departAt\":\"11:00 PM\"\n}",
+			"url": "http://localhost:9080/iBemsServer/getSuggestedRides",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cef6a17a-15d8-6a40-1243-1085f9b35d2f"
+		},
+		{
+			"id": "24850292-925b-9e5e-2cb8-b0bbb4d98646",
+			"name": "http://localhost:8080/iBemsServer/popularFood",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://localhost:8080/iBemsServer/popularFood",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cbdd2c3e-7b5d-bf74-61e5-57d5d01ab22f"
+		},
+		{
+			"id": "2caec997-73c4-29d1-af19-150a2819e2b3",
+			"name": "http://10.20.200.152:8080/iBemsServer/checkRestuarantChoiceVisible?wwid=WW001",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://10.20.200.152:8080/iBemsServer/checkRestuarantChoiceVisible?wwid=WW001",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "wwid",
+					"value": "WW001"
+				}
+			],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"type": "text"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cbdd2c3e-7b5d-bf74-61e5-57d5d01ab22f"
+		},
+		{
+			"id": "2d84013d-ff02-aa8c-31c1-752bdb9d6707",
+			"name": "http://localhost:8080/iBemsServer/trendingNowInfo?vendorServiceId=1_1",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "Content-Type: application/json\nAccept: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://localhost:8080/iBemsServer/trendingNowInfo?vendorServiceId=1_1",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "vendorServiceId",
+					"value": "1_1"
+				}
+			],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				},
+				{
+					"key": "Accept",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "8be99fbf-e1b5-e408-6ec7-b6d37283105a"
+		},
+		{
+			"id": "30e85b01-72c1-c6df-99c4-7f357fc40696",
+			"name": "http://localhost:9080/iBemsServer/getCommuteUserHomeLocation?wwid=40001719",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://localhost:9080/iBemsServer/getCommuteUserHomeLocation?wwid=40001719",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "wwid",
+					"value": "40001719"
+				}
+			],
+			"headerData": [],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cef6a17a-15d8-6a40-1243-1085f9b35d2f"
+		},
+		{
+			"id": "342b9e68-ea22-fe75-6613-2a3cb3bed561",
+			"name": "http://10.20.200.152:8080/iBemsServer/getUserInfo/40001719",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://10.20.200.152:8080/iBemsServer/getUserInfo/40001719",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "d9a22bff-1e5f-7c9f-a70b-889877b2b129"
+		},
+		{
+			"id": "38d043fc-d805-6e68-8bfd-61993c4defaf",
+			"name": "WS-15- Campus Services(Mobile) - editAppointment",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "POST",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "\t{\n\t\t\"vendorServiceId\":\"1_1\",\n\t\t\"oldSlotNumber\":33,\n\t\t\"newSlotNumber\":32,\n\t\t\"categoryId\":1,\n\t\t\"offerId\":1,\n\t\t\"wwid\":\"123456\",\n\t\t\"details\":\"single process with hair wash and hair cream Updateddd\",\n\t\t\"oldDate\":\"2018-08-08\",\n\t\t\"newDate\":\"2018-08-08\",\n\t\t\"oldTime\":\"05:00 PM\",\n\t\t\"newTime\":\"04:00 PM\"\n\t}",
+			"url": "http://bltsw01330.lnties.com:8080/iBemsServer/editAppointment",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "8be99fbf-e1b5-e408-6ec7-b6d37283105a"
+		},
+		{
+			"id": "3a6dcfc3-0593-fd71-5f9a-b8914a96b4b0",
+			"name": "http://localhost:8080/iBemsServer/getServiceSubCategories?vendorServiceId=1_1",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://localhost:8080/iBemsServer/getServiceSubCategories?vendorServiceId=1_1",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "vendorServiceId",
+					"value": "1_1"
+				}
+			],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "8be99fbf-e1b5-e408-6ec7-b6d37283105a"
+		},
+		{
+			"id": "3cfe6f2e-718b-27f4-4a00-e801c1d91ce3",
+			"name": "WS-14- Campus Service - Services(Mobile) - getAppointments",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://bltsw01330.lnties.com:8080/getAppointments?wwid=WW001",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "wwid",
+					"value": "WW001"
+				}
+			],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "8be99fbf-e1b5-e408-6ec7-b6d37283105a"
+		},
+		{
+			"id": "3d335d25-b681-ad6d-92fd-68db83eb236e",
+			"name": "http://localhost:9080/iBemsServer/saveUserCommuteSettings",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "POST",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\r\n\"id\":56,\r\n\"title\":\"Abin Monday Commute\",\r\n\"wwid\":\"40001719\",\r\n\"commuteModeId\":2,\r\n\"address\":\"Sarjapur road\",\r\n\"homeLocationId\":1,\r\n\"commuteFromLabel\":\"PTK1 - Office\",\r\n\"commuteToLabel\":\"Home\",\r\n\"isRoundTripOpted\":0,\r\n\"fromHomeCommuteType\":\"leaveBy\",\r\n\"fromHomeCommuteTime\":\"10:00 PM\",\r\n\"fromOfficeCommuteType\":\"leaveBy\",\r\n\"fromOfficeCommuteTime\":\"01:00 PM\",\r\n\"daySundayActive\":0,\r\n\"dayMondayActive\":1,\r\n\"dayTuesdayActive\":0,\r\n\"dayWednesdayActive\":0,\r\n\"dayThursdayActive\":0,\r\n\"dayFridayActive\":0,\r\n\"daySaturdayActive\":0\r\n}\r\n\r\n\r\n\r\n\r\n",
+			"url": "http://10.20.200.36:8080/iBemsServer/saveUserCommuteSettings",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cef6a17a-15d8-6a40-1243-1085f9b35d2f"
+		},
+		{
+			"id": "4092d5fb-af57-35b7-114b-ae4594b8a97e",
+			"name": "http://localhost:8080/iBemsServer/campusFoodSubCategory/1",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "Accept: application/json\nAccept: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://localhost:8080/iBemsServer/campusFoodSubCategory/1",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json"
+				},
+				{
+					"key": "Accept",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cbdd2c3e-7b5d-bf74-61e5-57d5d01ab22f"
+		},
+		{
+			"id": "4a29d00c-d2f5-f12d-af17-19006d371cbf",
+			"name": "http://localhost:8080/iBemsServer/saveFeedbackComment",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "POST",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\r\n\"type\":\"cs\",\r\n\"wwid\":\"WW001\",\r\n\"id\":\"449\",\r\n\"comments\":\"very cery goooood\"\r\n\r\n}",
+			"url": "http://localhost:8080/iBemsServer/saveFeedbackComment",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"type": "text"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cbdd2c3e-7b5d-bf74-61e5-57d5d01ab22f"
+		},
+		{
+			"id": "4bf705bd-c11e-6183-d16d-5ed520ef1408",
+			"name": "http://localhost:8080/iBemsServer/viewOrderStatus?wwid=WW001&orderId=3333095",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://localhost:8080/iBemsServer/viewOrderStatus?wwid=WW001&orderId=3333095",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "wwid",
+					"value": "WW001"
+				},
+				{
+					"key": "orderId",
+					"value": "3333095"
+				}
+			],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cbdd2c3e-7b5d-bf74-61e5-57d5d01ab22f"
+		},
+		{
+			"id": "4dbb693b-e5ed-fccd-47bb-92ecc81b3210",
+			"name": "http://localhost:8080/iBemsServer/getReserveTable?wwid=WW001",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://localhost:8080/iBemsServer/getReserveTable?wwid=WW001",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "wwid",
+					"value": "WW001"
+				}
+			],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cbdd2c3e-7b5d-bf74-61e5-57d5d01ab22f"
+		},
+		{
+			"id": "4fe12477-6d6d-438e-13b6-f9c7649acd79",
+			"name": "http://bltsw01330.lnties.com:8080/iBemsServer/getFoodIngredients/4",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://bltsw01330.lnties.com:8080/iBemsServer/getFoodIngredients/4",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cbdd2c3e-7b5d-bf74-61e5-57d5d01ab22f"
+		},
+		{
+			"id": "54963f7e-f7cc-420a-f438-2ae8d17a82b5",
+			"name": "http://localhost:8080/iBemsServer/recommendedFood?wwid=WW001&categoryId=1&foodTypeId=2",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://localhost:8080/iBemsServer/recommendedFood?wwid=WW001&categoryId=1&foodTypeId=2",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "wwid",
+					"value": "WW001"
+				},
+				{
+					"key": "categoryId",
+					"value": "1"
+				},
+				{
+					"key": "foodTypeId",
+					"value": "2"
+				}
+			],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cbdd2c3e-7b5d-bf74-61e5-57d5d01ab22f"
+		},
+		{
+			"id": "54e9a208-3d81-b6de-634b-2d7307ce3d9e",
+			"name": "http://localhost:8080/iBemsServer/orderList?wwid=WW001&type=previous&limit=10&offset=0",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://localhost:8080/iBemsServer/orderList?wwid=WW001&type=previous&limit=10&offset=0",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "wwid",
+					"value": "WW001"
+				},
+				{
+					"key": "type",
+					"value": "previous"
+				},
+				{
+					"key": "limit",
+					"value": "10"
+				},
+				{
+					"key": "offset",
+					"value": "0"
+				}
+			],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cbdd2c3e-7b5d-bf74-61e5-57d5d01ab22f"
+		},
+		{
+			"id": "593da3eb-e21d-d8f8-8045-456dadeed4f9",
+			"name": "http://bltsw01330.lnties.com:8080/iBemsServer/deleteRegisteredVehicle",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "POST",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\n  \"userParkingId\":9\n}",
+			"url": "http://bltsw01330.lnties.com:8080/iBemsServer/deleteRegisteredVehicle",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "7dd39cde-2248-23ea-44dc-6b57cedadfa1"
+		},
+		{
+			"id": "5ac57b7f-e5d9-21cc-2e60-d038f045b137",
+			"name": "http://localhost:8080/iBemsServer/saveLunchReminder",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "POST",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\n\t\"wwid\":\"WW002\",\n\t\"time\":\"01:30 PM\"\n}",
+			"url": "http://localhost:8080/iBemsServer/saveLunchReminder",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cbdd2c3e-7b5d-bf74-61e5-57d5d01ab22f"
+		},
+		{
+			"id": "604f036f-6d39-a36e-44e7-7434491e296a",
+			"name": "http://bltsw01330.lnties.com:8080/iBemsServer/createOrEditRegisterCar",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "POST",
+			"headers": "Content-Type: application/json",
+			"dataMode": "params",
+			"data": [
+				{
+					"key": "data",
+					"value": "{\n  \"registerId\": -1,\n  \"wwid\": \"20126149\",\n  \"lprNo\": \"12-568-77\",\n  \"imageExists\": false,\n  \"notifyStatus\":1,\n\"carType\":\"temperory\",\n\"carMake\":\"Skoda\",\n\"carModel\":\"Octavia\"\n}",
+					"type": "text"
+				},
+				{
+					"key": "file",
+					"type": "file",
+					"src": "",
+					"value": ""
+				}
+			],
+			"rawModeData": "",
+			"url": "http://bltsw01330.lnties.com:8080/iBemsServer/createOrEditRegisterCar?",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "",
+					"value": "",
+					"enabled": false
+				}
+			],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "7dd39cde-2248-23ea-44dc-6b57cedadfa1"
+		},
+		{
+			"id": "646fed31-6d83-2e66-1a21-aec8ce1aa7cd",
+			"name": "http://localhost:9080/iBemsServer/getCommuteUserSettingsListByWwid/40001719",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://localhost:9080/iBemsServer/getCommuteUserSettingsListByWwid/40001719",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cef6a17a-15d8-6a40-1243-1085f9b35d2f"
+		},
+		{
+			"id": "667e8c85-5c55-8348-0cee-7baf12713cd3",
+			"name": "http://localhost:9080/iBemsServer/getCommuteUserTravelData?wwid=40001719&commuteFrom=Home",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://localhost:9080/iBemsServer/getCommuteUserTravelData?wwid=40001719&commuteFrom=Home",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "wwid",
+					"value": "40001719"
+				},
+				{
+					"key": "commuteFrom",
+					"value": "Home"
+				}
+			],
+			"headerData": [],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cef6a17a-15d8-6a40-1243-1085f9b35d2f"
+		},
+		{
+			"id": "6cdafbcc-de09-d91a-2c4e-75305e6a2df9",
+			"name": "http://localhost:8080/iBemsServer/inActiveFoodPreference",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "POST",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\n\t\"prefId\":1\n}",
+			"url": "http://localhost:8080/iBemsServer/inActiveFoodPreference",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cbdd2c3e-7b5d-bf74-61e5-57d5d01ab22f"
+		},
+		{
+			"id": "70ea65be-d967-c4e1-346f-46761e3f1f66",
+			"name": "http://localhost:8080/iBemsServer/getFoodBasedonCategory?categoryVendorId=1_1",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://localhost:8080/iBemsServer/getFoodBasedonCategory?categoryVendorId=1_1",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "categoryVendorId",
+					"value": "1_1"
+				}
+			],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"type": "text"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cbdd2c3e-7b5d-bf74-61e5-57d5d01ab22f"
+		},
+		{
+			"id": "72185e87-2d2c-b658-5b91-6b8368107c09",
+			"name": "http://localhost:8080/iBemsServer/appointmentRatingDetails?vendorServiceId=2_2",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://localhost:8080/iBemsServer/appointmentRatingDetails?vendorServiceId=2_2",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "vendorServiceId",
+					"value": "2_2"
+				}
+			],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "8be99fbf-e1b5-e408-6ec7-b6d37283105a"
+		},
+		{
+			"id": "79797a52-faa9-38e0-8a58-0a473cff58b6",
+			"name": "http://bltsw01330.lnties.com:8080/iBemsServer/loadFoodPrefByWwid?wwid=WW001",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://bltsw01330.lnties.com:8080/iBemsServer/loadFoodPrefByWwid?wwid=WW001",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "wwid",
+					"value": "WW001"
+				}
+			],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cbdd2c3e-7b5d-bf74-61e5-57d5d01ab22f"
+		},
+		{
+			"id": "799b924b-e071-c457-be3c-20f39b301bb7",
+			"name": "WS-13 - Campus Service- Services(Mobile)- SaveAppointment",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "POST",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\n\t\"vendorServiceId\":\"1_1\",\n\t\"slotNumber\":33,\n\t\"categoryId\":1,\n\t\"offerId\":1,\n\t\"wwid\":\"123456\",\n\t\"details\":\"Hai Cutting, long and color\",\n\t\"date\":\"2018-08-08\",\n\t\"time\":\"05:00 PM\"\n}",
+			"url": "http://bltsw01330.lnties.com:8080/iBemsServer/saveAppointment",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "8be99fbf-e1b5-e408-6ec7-b6d37283105a"
+		},
+		{
+			"id": "79ed5287-fe53-2cee-d1f0-f4985035d6a5",
+			"name": "http://localhost:8080/iBemsServer/saveFeedbackLike",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "POST",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\r\n\"type\":\"fd\",\r\n\"wwid\":\"WW001\",\r\n\"id\":\"460\",\r\n\"status\":\"0\"\r\n\r\n}",
+			"url": "http://localhost:8080/iBemsServer/saveFeedbackLike",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"type": "text"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cbdd2c3e-7b5d-bf74-61e5-57d5d01ab22f"
+		},
+		{
+			"id": "7ec4cdd7-c060-1ea6-31d1-9e6032f67130",
+			"name": "http://localhost:8080/iBemsServer/getServiceCategories",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://localhost:8080/iBemsServer/getServiceCategories",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "8be99fbf-e1b5-e408-6ec7-b6d37283105a"
+		},
+		{
+			"id": "83ead922-d0c8-295e-15d6-701e400965f5",
+			"name": "http://localhost:8080/iBemsServer/setResturantChoiceandTime",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "POST",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\n\"categoryId\":\"1\",\n\"time\":\"01:10 PM\",\n\"wwid\":\"WW002\"\n}",
+			"url": "http://localhost:8080/iBemsServer/setResturantChoiceandTime",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"type": "text"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cbdd2c3e-7b5d-bf74-61e5-57d5d01ab22f"
+		},
+		{
+			"id": "882edb5d-dc02-ee23-5f93-cb076df9f288",
+			"name": "http://bltsw01330.lnties.com:8080/iBemsServer/campusSpecialFood/7_3",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://bltsw01330.lnties.com:8080/iBemsServer/campusSpecialFood/7_3",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cbdd2c3e-7b5d-bf74-61e5-57d5d01ab22f"
+		},
+		{
+			"id": "93b3bc0b-53c1-d7a3-2342-8a00e1de08d7",
+			"name": "http://localhost:8080/iBemsServer/getTrendingViewOffers?vendorServiceId=1_1&categoryId=1",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://localhost:8080/iBemsServer/getTrendingViewOffers?vendorServiceId=1_1&categoryId=1",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "vendorServiceId",
+					"value": "1_1"
+				},
+				{
+					"key": "categoryId",
+					"value": "1"
+				}
+			],
+			"headerData": [],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "8be99fbf-e1b5-e408-6ec7-b6d37283105a"
+		},
+		{
+			"id": "97330f56-5706-81c9-79cf-4993db609ff6",
+			"name": "http://localhost:8080/iBemsServer/registerUserDeviceInfo",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "POST",
+			"headers": "",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\n\"wwid\":\"20111754\",\n\"deviceId\":\"abc12345345_fdwg\",\n\"deviceType\":\"i\",\n\"version\":\"8.2\",\n\"status\":1\n}",
+			"url": "http://localhost:8080/iBemsServer/registerUserDeviceInfo",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "d9a22bff-1e5f-7c9f-a70b-889877b2b129"
+		},
+		{
+			"id": "9b84da75-30b6-bc99-858b-0e2bc43508b7",
+			"name": "http://localhost:8080/iBemsServer/saveFeedbackComment",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "POST",
+			"headers": "",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\n\t\"type\":\"cs\",\n\t\"id\":651,\n\t\"comments\":\"nice seervice\"\n}",
+			"url": "http://localhost:8080/iBemsServer/saveFeedbackComment",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "8be99fbf-e1b5-e408-6ec7-b6d37283105a"
+		},
+		{
+			"id": "9c5d9105-cbd5-451a-7ec3-b48ae33a77d8",
+			"name": "http://bltsw01330.lnties.com:8080/iBemsServer/foodDinHomePage?wwid=WW001",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://bltsw01330.lnties.com:8080/iBemsServer/foodDinHomePage?wwid=WW001",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "wwid",
+					"value": "WW001"
+				}
+			],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"type": "text"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cbdd2c3e-7b5d-bf74-61e5-57d5d01ab22f"
+		},
+		{
+			"id": "ae0e9bf8-05ee-90be-9f0e-66cad02af90a",
+			"name": "http://localhost:8080/iBemsServer/saveFeedbackLike",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "POST",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\n\t\"type\":\"cs\",\n\t\"id\":651,\n\t\"status\":1\n}",
+			"url": "http://localhost:8080/iBemsServer/saveFeedbackLike",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "8be99fbf-e1b5-e408-6ec7-b6d37283105a"
+		},
+		{
+			"id": "b3138be9-dc05-8a2c-9a87-028567b2aed4",
+			"name": "http://bltsw01330.lnties.com:8080/iBemsServer/overviewInfo?vendorServiceId=1_1",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "Content-Type: application/json\nAccept: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://bltsw01330.lnties.com:8080/iBemsServer/overviewInfo?vendorServiceId=1_1",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "vendorServiceId",
+					"value": "1_1"
+				}
+			],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				},
+				{
+					"key": "Accept",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "8be99fbf-e1b5-e408-6ec7-b6d37283105a"
+		},
+		{
+			"id": "b5802f09-b8fe-6a4b-fce7-6a0c5753f090",
+			"name": "http://localhost:9080/iBemsServer/getCommuteUserTravelModes",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://localhost:9080/iBemsServer/getCommuteUserTravelModes",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cef6a17a-15d8-6a40-1243-1085f9b35d2f"
+		},
+		{
+			"id": "b9e96094-5bf9-a656-8ba1-3afce943035d",
+			"name": "http://10.20.200.152:8080/iBemsServer/availableSlots?vendorServiceId=1_1&day=week&wwid=WW001",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "Content-Type: application/json\nAccept: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://10.20.200.152:8080/iBemsServer/availableSlots?vendorServiceId=1_1&day=week&wwid=WW001",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "vendorServiceId",
+					"value": "1_1"
+				},
+				{
+					"key": "day",
+					"value": "week"
+				},
+				{
+					"key": "",
+					"value": "",
+					"enabled": false
+				},
+				{
+					"key": "wwid",
+					"value": "WW001"
+				}
+			],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				},
+				{
+					"key": "Accept",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "8be99fbf-e1b5-e408-6ec7-b6d37283105a"
+		},
+		{
+			"id": "ba8df2ee-1809-ecaa-614e-e210594d2856",
+			"name": "http://localhost:8080/iBemsServer/reserveTable",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "POST",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\n\t\"wwid\":\"WW001\",\n\t\"groupName\":\"Java Group\",\n\t\"date\":\"2018-10-03\",\n\t\"time\":\"01:00 PM\",\n\t\"groupSize\":5\n}",
+			"url": "http://localhost:8080/iBemsServer/reserveTable",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cbdd2c3e-7b5d-bf74-61e5-57d5d01ab22f"
+		},
+		{
+			"id": "bc125ec6-9f93-5c26-f756-35f2242982a0",
+			"name": "http://localhost:8080/iBemsServer/getLunchReminder?wwid=WW001",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://localhost:8080/iBemsServer/getLunchReminder?wwid=WW001",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "wwid",
+					"value": "WW001"
+				}
+			],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cbdd2c3e-7b5d-bf74-61e5-57d5d01ab22f"
+		},
+		{
+			"id": "bc4389b3-ef86-29b5-5112-0624c66b3594",
+			"name": "http://localhost:9080/iBemsServer/getCommuteUserSettingsById/20",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://localhost:9080/iBemsServer/getCommuteUserSettingsById/20",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cef6a17a-15d8-6a40-1243-1085f9b35d2f"
+		},
+		{
+			"id": "bd740ec3-be95-8602-0d9f-dbfdbb251c28",
+			"name": "http://bltsw01330.lnties.com:8080/iBemsServer/getCampusFoodAndDiningCategories",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://bltsw01330.lnties.com:8080/iBemsServer/getCampusFoodAndDiningCategories",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cbdd2c3e-7b5d-bf74-61e5-57d5d01ab22f"
+		},
+		{
+			"id": "c02031e7-21fd-742a-dee8-7f219cb20248",
+			"name": "http://10.20.200.206:8095/iBemsServer/serviceCategories",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "Accept: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://10.20.200.206:8095/iBemsServer/serviceCategories",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "8be99fbf-e1b5-e408-6ec7-b6d37283105a"
+		},
+		{
+			"id": "d08ea151-c937-4229-1d37-dbd199470baa",
+			"name": "http://localhost:9080/iBemsServer/mobileHomeScreenInfo?wwid=ww001",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://10.20.200.152:8080/iBemsServer/mobileHomeScreenInfo?wwid=40001719",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "wwid",
+					"value": "40001719"
+				}
+			],
+			"headerData": [],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "d9a22bff-1e5f-7c9f-a70b-889877b2b129"
+		},
+		{
+			"id": "d309ab35-c604-c1bf-9919-313b8aabab38",
+			"name": "http://localhost:9080/iBemsServer/saveUserHomeLocation",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "POST",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\n\t\"wwid\":\"20126693\",\n\t\"address\":\"Shlomo Ibn Gabirol St 70\",\n\t\"locationName\":\"Tel Aviv-Yafo\",\n\t \"latitude\":\"32.080603\",\n     \"longitude\":\"34.781381\"\n\n}",
+			"url": "http://localhost:9080/iBemsServer/saveUserHomeLocation",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cef6a17a-15d8-6a40-1243-1085f9b35d2f"
+		},
+		{
+			"id": "dfa1aa18-addc-f1e9-38c9-4218230f9264",
+			"name": "http://bltsw01330.lnties.com:8080/iBemsServer/getFoodNutrition/4",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://bltsw01330.lnties.com:8080/iBemsServer/getFoodNutrition/4",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cbdd2c3e-7b5d-bf74-61e5-57d5d01ab22f"
+		},
+		{
+			"id": "dfbc6688-7e42-e8b6-e0f3-03bc1272bccf",
+			"name": "http://localhost:8080/iBemsServer/saveAutoOrder",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "POST",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\n\t\"orderTypeId\":2,\n\t\"wwid\":\"WW002\",\n\t\"time\":\"10:45 AM\",\n\t\"recurrrenceDays\":\"Friday\"\n}",
+			"url": "http://localhost:8080/iBemsServer/saveAutoOrder",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cbdd2c3e-7b5d-bf74-61e5-57d5d01ab22f"
+		},
+		{
+			"id": "e87202ee-3f35-ab27-166d-f9422ed500dc",
+			"name": "http://bltsw01330.lnties.com:8080/iBemsServer/getSpecialFoodByCategory/1_1",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://bltsw01330.lnties.com:8080/iBemsServer/getSpecialFoodByCategory/1_1",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cbdd2c3e-7b5d-bf74-61e5-57d5d01ab22f"
+		},
+		{
+			"id": "ec140a07-9f88-bf30-2ed0-2e7375f8320b",
+			"name": "http://localhost:9080/iBemsServer/deleteCommuteUserSetting",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "POST",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "{\n\t\"commuteSettingId\":50\n}",
+			"url": "http://localhost:9080/iBemsServer/deleteCommuteUserSetting",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cef6a17a-15d8-6a40-1243-1085f9b35d2f"
+		},
+		{
+			"id": "ed022d1f-de36-3160-7b66-3506ec6c0bae",
+			"name": "http://localhost:8080/iBemsServer/getServiceCategoriesForMobile?isForViewAll=true&limit=20&offset=0",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://localhost:8080/iBemsServer/getServiceCategoriesForMobile?isForViewAll=true&limit=20&offset=0",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "isForViewAll",
+					"value": "true"
+				},
+				{
+					"key": "limit",
+					"value": "20"
+				},
+				{
+					"key": "offset",
+					"value": "0"
+				}
+			],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "8be99fbf-e1b5-e408-6ec7-b6d37283105a"
+		},
+		{
+			"id": "ef3058f0-cc77-66df-f3ea-90b8e0bbd8f4",
+			"name": "http://localhost:9080/iBemsServer/getCommuteUserLocations",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://localhost:9080/iBemsServer/getCommuteUserLocations",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cef6a17a-15d8-6a40-1243-1085f9b35d2f"
+		},
+		{
+			"id": "f2b84d66-e07e-30cc-9722-3d512b350253",
+			"name": "http://localhost:8080/iBemsServer/getOverviewInfo?vendorServiceId=1_1",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "Content-Type.: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://localhost:8080/iBemsServer/getOverviewInfo?vendorServiceId=1_1",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "vendorServiceId",
+					"value": "1_1"
+				}
+			],
+			"headerData": [
+				{
+					"key": "Content-Type.",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "8be99fbf-e1b5-e408-6ec7-b6d37283105a"
+		},
+		{
+			"id": "f2fa5355-a9df-e519-a84d-2fd28968de44",
+			"name": "http://localhost:8080/iBemsServer/foodAutoOrderList",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "Content-Type: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://localhost:8080/iBemsServer/foodAutoOrderList",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cbdd2c3e-7b5d-bf74-61e5-57d5d01ab22f"
+		},
+		{
+			"id": "f413a3eb-a0f6-cbe0-06ca-38e207cd8533",
+			"name": "http://10.20.200.152:8080/iBemsServer/getRegisteredVehicles?wwid=20126149",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "Accept: application/json",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://10.20.200.152:8080/iBemsServer/getRegisteredVehicles?wwid=20126149",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [
+				{
+					"key": "wwid",
+					"value": "20126149"
+				}
+			],
+			"headerData": [
+				{
+					"key": "Accept",
+					"value": "application/json"
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "7dd39cde-2248-23ea-44dc-6b57cedadfa1"
+		},
+		{
+			"id": "f4b17ab2-04c9-f407-35b3-e49316441419",
+			"name": "http://localhost:8080/iBemsServer/campusSubCategoryFoods/1_1/1",
+			"description": "",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "GET",
+			"headers": "",
+			"dataMode": "raw",
+			"data": [],
+			"rawModeData": "",
+			"url": "http://localhost:8080/iBemsServer/campusSubCategoryFoods/1_1/1",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "cbdd2c3e-7b5d-bf74-61e5-57d5d01ab22f"
+		},
+		{
+			"id": "f7c9b6f9-e6f6-c438-9662-49077d264c68",
+			"name": "http://10.20.200.152:8080/iBemsServer/uploadAvatar",
+			"description": "upload avatar",
+			"collectionId": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"method": "POST",
+			"headers": "// Content-Type: application/x-www-form-urlencoded",
+			"dataMode": "params",
+			"data": [
+				{
+					"key": "data",
+					"value": "{\n\t\"wwid\" : \"WW001\"\n}",
+					"type": "text"
+				},
+				{
+					"key": "file",
+					"type": "file",
+					"src": "",
+					"value": ""
+				}
+			],
+			"rawModeData": "",
+			"url": "http://10.20.200.36:8080/iBemsServer/uploadAvatar",
+			"responses": [],
+			"pathVariableData": [],
+			"queryParams": [],
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/x-www-form-urlencoded",
+					"enabled": false
+				}
+			],
+			"collection_id": "cd6f38b6-a9ff-b423-736b-abb689a5bffc",
+			"folder": "d9a22bff-1e5f-7c9f-a70b-889877b2b129"
+		}
+	]
+}
